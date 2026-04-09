@@ -37,14 +37,14 @@ Phụ trách xây dựng user stories, thiết kế workflow, phát triển các
 ---
 
 ## 5. Điều học được
-Trước dự án, em cho rằng user stories và workflow chỉ mang tính mô tả. Tuy nhiên, sau quá trình thực hiện, tôi nhận ra rằng chúng đóng vai trò quan trọng trong việc định hướng phát triển sản phẩm. Một workflow rõ ràng giúp giảm thiểu lỗi trong quá trình triển khai và kiểm thử.
+Trước dự án, em cho rằng user stories và workflow chỉ mang tính mô tả. Tuy nhiên, sau quá trình thực hiện, em nhận ra rằng chúng đóng vai trò quan trọng trong việc định hướng phát triển sản phẩm. Một workflow rõ ràng giúp giảm thiểu lỗi trong quá trình triển khai và kiểm thử.
 
 Ngoài ra, testing cho thấy rằng nhiều ý tưởng hợp lý trên lý thuyết có thể chưa tối ưu khi áp dụng thực tế. Điều này nhấn mạnh tầm quan trọng của việc kiểm thử sớm và liên tục.
 
 ---
 
 ## 6. Nếu làm lại
-Nếu thực hiện lại dự án, tôi sẽ:
+Nếu thực hiện lại dự án, em sẽ:
 - Viết và xác nhận **User Stories** ngay từ giai đoạn đầu.
 - Thiết kế và kiểm thử **Workflow** sớm hơn để phát hiện lỗi kịp thời.
 - Mô tả chi tiết hơn các **edge cases** trong 4 paths.
